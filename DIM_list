@@ -18,6 +18,7 @@ dimwishlist:item=294129361&perks=509074078,1546637391
 
 
 // 구제
+//notes:신봉자의 서약 레이드 드랍
 dimwishlist:item=768621510&perks=3523296417,11612903
 dimwishlist:item=768621510&perks=3523296417,2978966579
 dimwishlist:item=768621510&perks=671806388,2978966579
@@ -36,6 +37,7 @@ dimwishlist:item=2943293195&perks=1428297954,1890422124
 dimwishlist:item=2943293195&perks=2172504645,1890422124
 
 // 굴복
+//notes:신봉자의 서약 레이드 드랍-제작 가능한 pve 종결 기단
 dimwishlist:item=3886416794&perks=3643424744,4104185692
 dimwishlist:item=3886416794&perks=1820235745,4104185692
 dimwishlist:item=3886416794&perks=1428297954,4104185692
@@ -74,12 +76,14 @@ dimwishlist:item=1941816543&perks=1428297954,2450788523
 dimwishlist:item=1941816543&perks=2172504645,438098033
 
 // 루브라이의 몰락
+//notes:신봉자의 서약 레이드 드랍-월도=쓰레기
 dimwishlist:item=2534546147&perks=1631667848,4082225868
 dimwishlist:item=2534546147&perks=1631667848,1546637391
 dimwishlist:item=1466006054&perks=1631667848,4082225868
 dimwishlist:item=1466006054&perks=1631667848,1546637391
 
 // 관용
+//notes:신봉자의 서약 레이드 드랍
 dimwishlist:item=613334176&perks=3436462433,4049631843
 dimwishlist:item=613334176&perks=2010801679,4049631843
 dimwishlist:item=613334176&perks=1583705720,4049631843
